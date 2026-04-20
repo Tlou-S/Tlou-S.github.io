@@ -45,7 +45,7 @@ Cape Peninsula University of Technology (CPUT)
 
 # 🧠 REFLECTION
 
-## 📄 CV (Markdown) Reflection
+## 📄 CV Reflection
 
 👉 [Download My CV](Tlou CV.pdf)
 
