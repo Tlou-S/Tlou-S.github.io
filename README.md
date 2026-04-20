@@ -43,11 +43,11 @@ Cape Peninsula University of Technology (CPUT)
 
 ---
 
-# 🧠 REFLECTION
+# REFLECTION
 
-## 📄 CV Reflection
+##  CV Reflection
 
-👉 [Download My CV](Tlou CV.pdf)
+ [Download My CV](Tlou CV.pdf)
 
 **Situation:**  
 As part of the digital portfolio assessment, I was required to convert my CV into a GitHub-friendly format using Markdown.
@@ -63,9 +63,9 @@ I successfully created a clean and professional CV on GitHub. This improved my a
 
 ---
 
-## 🎤 Mock Interview Reflection
+## Mock Interview Reflection
 
-## 🎥 Mock Interview Video
+## Mock Interview Video
 <video width="600" controls>
   <source src="mock_interview_video.mp4" type="video/mp4">
 </video>
@@ -84,9 +84,9 @@ The mock interview helped me improve my confidence and communication skills. I b
 
 ---
 
-## 🌐 GitHub Pages Reflection
+## GitHub Pages Reflection
 
-## 👉 [Visit My GitHub Pages Site](https://tlou-s.github.io)
+## [Visit My GitHub Pages Site](https://tlou-s.github.io)
 
 **Situation:**  
 I was required to publish my portfolio online using GitHub Pages.
@@ -102,7 +102,7 @@ I successfully created a live portfolio website. This experience improved my und
 
 ---
 
-## 🔗 Final Reflection 
+## Final Reflection 
 
 This portfolio shows my development as an IT student by combining my CV, mock interview, and technical skills in one place. Each section demonstrates a different aspect of my work readiness, from technical knowledge to communication skills. Together, they show my growth and readiness to enter the professional environment.
 
