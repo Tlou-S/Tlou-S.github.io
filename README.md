@@ -106,3 +106,23 @@ I successfully created a live portfolio website. This experience improved my und
 
 This portfolio shows my development as an IT student by combining my CV, mock interview, and technical skills in one place. Each section demonstrates a different aspect of my work readiness, from technical knowledge to communication skills. Together, they show my growth and readiness to enter the professional environment.
 
+
+## Agile Portfolio — August to October 2026
+
+My Agile evidence and reflections for Project Presentation 3, covering the EduInsight AI project, my university group projects and my placement at Soluon (YES Quality Work Experience app, Host/SME side).
+
+### 1. Agile Team Charter
+- [View Evidence](agile_team_charter/evidence.html) · [Reflection](agile_team_charter/reflection.html)
+
+### 2. User Stories and Tasks
+- [View Evidence](user_stories_and_tasks/evidence.html) · [Reflection](user_stories_and_tasks/reflection.html)
+
+### 3. Product Backlog
+- [View Evidence](product_backlog/evidence.html) · [Reflection](product_backlog/reflection.html)
+
+### 4. Sprint Backlog
+- [View Evidence](sprint_backlog/evidence.html) · [Reflection](sprint_backlog/reflection.html)
+
+### 5. Agile Logbook
+- [View Evidence](agile_logbook/evidence.html) · [Reflection](agile_logbook/reflection.html)
+
