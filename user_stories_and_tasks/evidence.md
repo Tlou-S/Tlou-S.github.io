@@ -10,14 +10,14 @@ title: User Stories and Tasks — Evidence
 |---|---|
 | **Student** | Tlou Masebe (230128521) |
 | **Module** | Project Presentation 3 (PRP370S/371S/372S) |
-| **Host employer** | Soluon |
-| **Project** | YES Quality Work Experience app — Host/SME side |
+| **Programme** | CAPACITI – MICT Work Integrated Learning (WIL) Programme |
+| **Host employer** | Soluon (YES Quality Work Experience app — Host/SME side) |
 
-> Format: *As an SME host, I want to register once and log in, so that I do not re-register and my profile is protected.* Each story has acceptance criteria (AC) that say when it is done, and tasks (T) that break the work into steps. Example: *As an SME host, I want to register once and log in, so that I do not re-register and my profile is protected.*
+> Format: *As a [user], I want [goal], so that [benefit].* Each story has acceptance criteria (AC) that say when it is done, and tasks (T) that break the work into steps. Example: *As an SME host, I want to register once and log in, so that I do not re-register and my profile is protected.*
 
 ---
 
-## Epic A — Getting Started
+## Epic A — Getting Started (Soluon)
 
 ### US-01 · Environment setup and onboarding
 
@@ -30,7 +30,7 @@ title: User Stories and Tasks — Evidence
 - T1.4 Run the Expo app in Chrome
 - T1.5 Run the Flask backend and confirm the app talks to it
 
-## Epic B — Host/SME Side
+## Epic B — Host/SME Side (Soluon)
 
 ### US-02 · Host login and profile
 
@@ -106,3 +106,34 @@ title: User Stories and Tasks — Evidence
 - T9.1 Write the charter, stories, backlogs and logbook
 - T9.2 Write the five reflections
 - T9.3 Publish on GitHub Pages and submit the link
+
+## Epic D — Earlier Work (WIL Programme and University Projects)
+
+### US-10 · EduInsight AI role-based login and lecturer approval
+
+**As an** admin, **I want** lecturers to register and be approved before they get access, **so that** only verified lecturers can see student data.
+**AC:** Admin, Lecturer and Student roles each have their own login; a new lecturer cannot use the platform until approved; modules are assigned to lecturers and students.
+
+- T10.1 Design the three roles and what each can access
+- T10.2 Build login for each role
+- T10.3 Build the lecturer approval workflow
+- T10.4 Assign modules (for example, the 8 ICT Application Development modules) to lecturers and students
+- T10.5 Deploy and test on base44
+
+### US-11 · UniTrade Quality Management Plan
+
+**As a** project team (Group 56), **we want** a Quality Management Plan for the UniTrade / Community Store marketplace app, **so that** quality standards and checks are clear before we build.
+**AC:** My part of the plan is written and reviewed by the group; submitted for the Term 3 deadline.
+
+- T11.1 Agree my section of the plan with the group
+- T11.2 Write the quality standards and checks for my section
+- T11.3 Review with the group and submit
+
+### US-12 · AIS1A remodelled question paper
+
+**As a** project team, **we want** the question paper remodelled for Green Co Events, Stay and Studio, **so that** it reflects each business and its prices.
+**AC:** Question paper remodelled for the three businesses; Section B price lists completed; group work submitted.
+
+- T12.1 Remodel the question paper for Green Co Events, Stay and Studio
+- T12.2 Prepare the Section B price lists
+- T12.3 Review with the group and submit
