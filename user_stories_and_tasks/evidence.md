@@ -137,3 +137,5 @@ title: User Stories and Tasks — Evidence
 - T12.1 Remodel the question paper for Green Co Events, Stay and Studio
 - T12.2 Prepare the Section B price lists
 - T12.3 Review with the group and submit
+
+![Soluon App Trello board: Blocked and Decisions Needed list](../Trello%204.jpeg)
