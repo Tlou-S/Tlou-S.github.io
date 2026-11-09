@@ -31,3 +31,6 @@ title: Product Backlog — Evidence
 | US-12 | D — Earlier Work | AIS1A remodelled question paper | Should | 5 | ✅ Done |
 
 **Ordering:** items are ranked by value and dependency within each epic. For the Soluon app, setup and login come first because every other host feature depends on them, then tasks, matching and tracking. The earlier work (Epic D) was completed before the Soluon placement began.
+
+![Soluon App Trello board: Backlog list](../images/trello-1.jpeg)
+
