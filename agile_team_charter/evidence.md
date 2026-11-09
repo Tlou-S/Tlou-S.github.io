@@ -100,3 +100,5 @@ Charter reviewed at the end of each sprint. Last updated: **27 October 2026**.
 |---|---|
 | Tlou Masebe | T. Masebe |
 | Inam | I.Klaas |
+
+![Soluon App Trello board: Stage A To Do list](../Trello%203.jpeg)
