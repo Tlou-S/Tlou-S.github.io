@@ -44,3 +44,5 @@
 | 1 | Got role-based login and the lecturer approval flow working on EduInsight AI | [what was hard, for example learning base44] | Test each role earlier, before building the next feature |
 | 3 | Delivered my part of the UniTrade plan and the AIS1A price lists | Two group deadlines at once left little time for review | Plan the review time into the sprint before the deadline week |
 | 4 | Got the app running locally; clear direction from Shaun; login approved | Started on the wrong branch; slow start after cloning; nothing pushed yet | Confirm branch and push rules on day one; push small changes after confirmation |
+
+![Soluon App Trello board: Admin and Tracking list](../Trello%202.jpeg)
