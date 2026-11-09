@@ -13,8 +13,6 @@ title: Product Backlog — Evidence
 | **Programme** | CAPACITI – MICT Work Integrated Learning (WIL) Programme |
 | **Host employer** | Soluon (YES Quality Work Experience app — Host/SME side) |
 
-> Priority uses MoSCoW (Must / Should / Could). Points are story-point estimates. ⚠️ Check every Status against what you have actually done before publishing, then delete this note.
-
 ---
 
 | ID | Epic | Item | Priority | Points | Status |
