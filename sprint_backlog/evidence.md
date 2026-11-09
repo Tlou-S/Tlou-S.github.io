@@ -78,3 +78,5 @@ title: Sprint Backlog — Evidence
 |---|---|
 | US-04 AI task matching | ⬜ Planned |
 | US-05 Host tracks progress | ⬜ Planned |
+
+![Soluon App Trello board: Blocked and Decisions Needed list](../Trello%204.jpeg)
